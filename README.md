@@ -18,4 +18,11 @@ The following table contains description of files:
 | perform.sh                       | The perform.sh run all pipeline for build FTS, merge FTS, and perform epridoicity detection and feature mining.  |
  
  
+ The datasets are available in Zenodo platform as CESNET-MINER22-TS: Periodic Behavior Features of Cryptomining Communication: https://zenodo.org/record/8033351
+ 
+ Cite as:
+ 
+ Josef Koumar, Richard Plný, & Tomáš Čejka. (2023). CESNET-MINER22-TS: Periodic Behavior Features of Cryptomining Communication [Data set]. Zenodo. https://doi.org/10.5281/zenodo.8033351
+ 
+ 
  Copyright &copy; 2023, Czech Technical University in Prague, CESNET a.l.e., Josef Koumar (koumajos@fit.cvut.cz), Richard Plný (plnyrich@fit.cvut.cz), Tomáš Čejka (cejkat@cesnet.cz)
