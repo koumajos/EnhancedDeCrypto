@@ -17,3 +17,5 @@ The following table contains description of files:
 | new_model.py                     | The new_model.py contains model of for perform peridoicity detection and feature mining.  |
 | perform.sh                       | The perform.sh run all pipeline for build FTS, merge FTS, and perform epridoicity detection and feature mining.  |
  
+ 
+ Copyright &copy; 2023, Czech Technical University in Prague, CESNET a.l.e., Josef Koumar (koumajos@fit.cvut.cz), Richard Plný (plnyrich@fit.cvut.cz), Tomáš Čejka (cejkat@cesnet.cz)
